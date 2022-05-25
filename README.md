@@ -1,4 +1,4 @@
-# Adder which until find 
+# Adder which until find a palindromic number
 
 An adder which continue to add each number and it's reversed number until find palindromic number
 
